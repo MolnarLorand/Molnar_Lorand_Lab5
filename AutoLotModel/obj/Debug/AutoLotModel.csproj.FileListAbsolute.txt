@@ -1,0 +1,11 @@
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\EntityFramework.dll
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\EntityFramework.xml
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\obj\Debug\AutoLotModel.dll
+C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\AutoLotModel\obj\Debug\AutoLotModel.pdb
