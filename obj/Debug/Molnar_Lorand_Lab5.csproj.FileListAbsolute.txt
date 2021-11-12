@@ -21,6 +21,5 @@ C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molna
 C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.Properties.Resources.resources
 C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.csproj.GenerateResource.cache
 C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.csproj.CoreCompileInputs.cache
-C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.csproj.CopyComplete
 C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.exe
 C:\Users\Lorand\WorkSpace\Medii de programare\Molnar_Lorand_Lab5\obj\Debug\Molnar_Lorand_Lab5.pdb
