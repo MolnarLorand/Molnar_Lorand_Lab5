@@ -259,6 +259,7 @@ namespace Molnar_Lorand_Lab5
                     SaveInventory();
                     break;
                 case "Orders":
+                    SaveOrders();
                     break;
             }
             ReInitialize();
@@ -355,5 +356,6 @@ namespace Molnar_Lorand_Lab5
                              };
             customerOrdersVSource.Source = queryOrder.ToList();
         }
+
     }
 }

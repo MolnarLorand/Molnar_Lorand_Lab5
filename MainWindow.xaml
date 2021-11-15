@@ -48,8 +48,8 @@
                         <Label Content="Last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="2" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
                         <TextBox x:Name="lastNameTextBox" Grid.Column="2" HorizontalAlignment="Left" Height="24" Margin="3.2,4,0,4" Grid.Row="2" Text="{Binding LastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" Grid.ColumnSpan="2"/>
                     </Grid>
-                    <Button x:Name="btnPrev" Content="Previous" HorizontalAlignment="Left" Margin="80.3,130,0,0" VerticalAlignment="Top" Width="75" Grid.Column="3"/>
-                    <Button x:Name="btnNext" Content="Next" HorizontalAlignment="Left" Margin="272.3,132,0,0" VerticalAlignment="Top" Width="75" Grid.Column="3"/>
+                    <Button x:Name="btnPrev" Content="Previous" HorizontalAlignment="Left" Margin="80.3,130,0,0" VerticalAlignment="Top" Width="75" Grid.Column="3" Click="btnPrev_Click"/>
+                    <Button x:Name="btnNext" Content="Next" HorizontalAlignment="Left" Margin="272.3,132,0,0" VerticalAlignment="Top" Width="75" Grid.Column="3" Click="btnNext_Click"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Inventory">
@@ -140,8 +140,8 @@
         </GroupBox>
         <GroupBox x:Name="gbActions" Header="" HorizontalAlignment="Left" Height="100" Margin="41,247,0,0" VerticalAlignment="Top" Width="100">
             <StackPanel HorizontalAlignment="Left" Height="77" Margin="0,0,-2,0" VerticalAlignment="Top" Width="90">
-                <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="75"/>
-                <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="75"/>
+                <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="75" Click="btnSave_Click"/>
+                <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
             </StackPanel>
         </GroupBox>
 
